@@ -97,7 +97,13 @@ The **BioSensor Data Analysis System** is a comprehensive end-to-end solution fo
 - **Multi-variate Analysis**: Considers correlations between parameters
 
 ---
+## 🧩 The Badge Explained
 
+You can explore the model architecture, visualizations, and generated insights below:
+
+[![View Artifact](https://img.shields.io/badge/View%20Artifact-Open%20Interactive%20Preview-blue?style=for-the-badge&logo=icloud)](https://claude.ai/public/artifacts/33f654ea-577d-4b7a-a1bd-1cab38459797)
+
+---
 ## 🛠️ Tech Stack
 
 ### Frontend
